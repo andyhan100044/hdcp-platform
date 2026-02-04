@@ -1,0 +1,132 @@
+{
+  "nav": {
+    "home": "الرئيسية",
+    "dashboard": "لوحة التحكم",
+    "about": "حول",
+    "contact": "اتصل بنا"
+  },
+  "common": {
+    "loading": "جاري التحميل...",
+    "error": "حدث خطأ",
+    "search": "بحث",
+    "submit": "إرسال",
+    "cancel": "إلغاء",
+    "save": "حفظ",
+    "delete": "حذف",
+    "edit": "تحرير",
+    "create": "إنشاء",
+    "update": "تحديث"
+  },
+  "home": {
+    "title": "منصة HDCP",
+    "subtitle": "منصة البيانات- CMS الهجينة مع دعم متعدد اللغات",
+    "description": "قم ببناء تطبيقات مدفوعة بالبيانات باستخدام قالب المنصة الشامل",
+    "features": {
+      "title": "المزايا",
+      "stock": "مراقبة أسعار الأسهم",
+      "iot": "بيانات أجهزة الاستشعار IoT",
+      "ecommerce": "تتبع أسعار التجارة الإلكترونية",
+      "carbon": "تتبع اعتمادات الكربون"
+    },
+    "cta": {
+      "dashboard": "عرض لوحة التحكم",
+      "documentation": "عرض الوثائق"
+    }
+  },
+  "dashboard": {
+    "title": "لوحة التحكم",
+    "welcome": "مرحباً بك في لوحة التحكم",
+    "stats": {
+      "title": "الإحصائيات",
+      "total": "إجمالي السجلات",
+      "today": "سجلات اليوم",
+      "active": "العناصر النشطة"
+    },
+    "charts": {
+      "title": "الرسوم البيانية",
+      "price_trend": "اتجاه الأسعار",
+      "volume": "الحجم",
+      "distribution": "التوزيع"
+    }
+  },
+  "stock": {
+    "title": "أسعار الأسهم",
+    "symbol": "الرمز",
+    "price": "السعر",
+    "volume": "الحجم",
+    "change": "التغيير",
+    "change_percent": "التغيير %",
+    "timestamp": "الطابع الزمني",
+    "source": "المصدر",
+    "enter_symbol": "أدخل رمز السهم",
+    "search": "بحث",
+    "add_stock": "إضافة سهم",
+    "edit_stock": "تحرير السهم",
+    "delete_stock": "حذف السهم",
+    "summary": "الملخص",
+    "history": "التاريخ"
+  },
+  "sensor": {
+    "title": "قراءات أجهزة الاستشعار",
+    "sensor_id": "معرف جهاز الاستشعار",
+    "location": "الموقع",
+    "temperature": "درجة الحرارة",
+    "humidity": "الرطوبة",
+    "battery": "البطارية",
+    "signal": "الإشارة",
+    "status": "الحالة",
+    "online": "متصل",
+    "offline": "غير متصل",
+    "add_reading": "إضافة قراءة",
+    "stats": "الإحصائيات"
+  },
+  "product": {
+    "title": "أسعار المنتجات",
+    "product_id": "معرف المنتج",
+    "product_name": "اسم المنتج",
+    "price": "السعر",
+    "currency": "العملة",
+    "source": "المصدر",
+    "availability": "التوفر",
+    "in_stock": "متوفر",
+    "out_of_stock": "غير متوفر",
+    "compare": "مقارنة الأسعار",
+    "track": "تتبع السعر"
+  },
+  "carbon": {
+    "title": "اعتمادات الكربون",
+    "project_id": "معرف المشروع",
+    "project_name": "اسم المشروع",
+    "standard": "المعيار",
+    "location": "الموقع",
+    "project_type": "نوع المشروع",
+    "additionality_score": "نقاط الإضافية",
+    "co_benefits_score": "نقاط الفوائد المشتركة",
+    "total_credits": "إجمالي الاعتمادات",
+    "impact": "التأثير البيئي",
+    "co2_offset": "تعويض CO2",
+    "forest_area": "منطقة الغابات",
+    "communities": "المجتمعات المستفيدة"
+  },
+  "language": {
+    "switcher": "اللغة",
+    "detected": "تم الكشف تلقائياً",
+    "select": "اختيار اللغة"
+  },
+  "footer": {
+    "copyright": "© 2024 منصة HDCP. جميع الحقوق محفوظة.",
+    "links": {
+      "privacy": "سياسة الخصوصية",
+      "terms": "شروط الخدمة",
+      "contact": "اتصل بنا"
+    }
+  },
+  "errors": {
+    "not_found": "غير موجود",
+    "server_error": "خطأ في الخادم",
+    "network_error": "خطأ في الشبكة",
+    "validation_error": "خطأ في التحقق",
+    "unauthorized": "غير مصرح",
+    "forbidden": "ممنوع"
+  }
+}

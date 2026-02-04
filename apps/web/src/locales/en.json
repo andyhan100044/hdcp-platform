@@ -1,0 +1,132 @@
+{
+  "nav": {
+    "home": "Home",
+    "dashboard": "Dashboard",
+    "about": "About",
+    "contact": "Contact"
+  },
+  "common": {
+    "loading": "Loading...",
+    "error": "An error occurred",
+    "search": "Search",
+    "submit": "Submit",
+    "cancel": "Cancel",
+    "save": "Save",
+    "delete": "Delete",
+    "edit": "Edit",
+    "create": "Create",
+    "update": "Update"
+  },
+  "home": {
+    "title": "HDCP Platform",
+    "subtitle": "Hybrid Data-CMS Platform with Multi-Language Support",
+    "description": "Build data-driven applications with our universal platform template",
+    "features": {
+      "title": "Features",
+      "stock": "Stock Price Monitoring",
+      "iot": "IoT Sensor Data",
+      "ecommerce": "E-commerce Price Tracking",
+      "carbon": "Carbon Credit Tracking"
+    },
+    "cta": {
+      "dashboard": "View Dashboard",
+      "documentation": "View Documentation"
+    }
+  },
+  "dashboard": {
+    "title": "Dashboard",
+    "welcome": "Welcome to your dashboard",
+    "stats": {
+      "title": "Statistics",
+      "total": "Total Records",
+      "today": "Today's Records",
+      "active": "Active Items"
+    },
+    "charts": {
+      "title": "Charts",
+      "price_trend": "Price Trend",
+      "volume": "Volume",
+      "distribution": "Distribution"
+    }
+  },
+  "stock": {
+    "title": "Stock Prices",
+    "symbol": "Symbol",
+    "price": "Price",
+    "volume": "Volume",
+    "change": "Change",
+    "change_percent": "Change %",
+    "timestamp": "Timestamp",
+    "source": "Source",
+    "enter_symbol": "Enter stock symbol",
+    "search": "Search",
+    "add_stock": "Add Stock",
+    "edit_stock": "Edit Stock",
+    "delete_stock": "Delete Stock",
+    "summary": "Summary",
+    "history": "History"
+  },
+  "sensor": {
+    "title": "Sensor Readings",
+    "sensor_id": "Sensor ID",
+    "location": "Location",
+    "temperature": "Temperature",
+    "humidity": "Humidity",
+    "battery": "Battery",
+    "signal": "Signal",
+    "status": "Status",
+    "online": "Online",
+    "offline": "Offline",
+    "add_reading": "Add Reading",
+    "stats": "Statistics"
+  },
+  "product": {
+    "title": "Product Prices",
+    "product_id": "Product ID",
+    "product_name": "Product Name",
+    "price": "Price",
+    "currency": "Currency",
+    "source": "Source",
+    "availability": "Availability",
+    "in_stock": "In Stock",
+    "out_of_stock": "Out of Stock",
+    "compare": "Compare Prices",
+    "track": "Track Price"
+  },
+  "carbon": {
+    "title": "Carbon Credits",
+    "project_id": "Project ID",
+    "project_name": "Project Name",
+    "standard": "Standard",
+    "location": "Location",
+    "project_type": "Project Type",
+    "additionality_score": "Additionality Score",
+    "co_benefits_score": "Co-benefits Score",
+    "total_credits": "Total Credits",
+    "impact": "Environmental Impact",
+    "co2_offset": "CO2 Offset",
+    "forest_area": "Forest Area",
+    "communities": "Communities Benefited"
+  },
+  "language": {
+    "switcher": "Language",
+    "detected": "Auto-detected",
+    "select": "Select Language"
+  },
+  "footer": {
+    "copyright": "© 2024 HDCP Platform. All rights reserved.",
+    "links": {
+      "privacy": "Privacy Policy",
+      "terms": "Terms of Service",
+      "contact": "Contact Us"
+    }
+  },
+  "errors": {
+    "not_found": "Not Found",
+    "server_error": "Server Error",
+    "network_error": "Network Error",
+    "validation_error": "Validation Error",
+    "unauthorized": "Unauthorized",
+    "forbidden": "Forbidden"
+  }
+}

@@ -1,0 +1,132 @@
+{
+  "nav": {
+    "home": "ホーム",
+    "dashboard": "ダッシュボード",
+    "about": "概要",
+    "contact": "お問い合わせ"
+  },
+  "common": {
+    "loading": "読み込み中...",
+    "error": "エラーが発生しました",
+    "search": "検索",
+    "submit": "送信",
+    "cancel": "キャンセル",
+    "save": "保存",
+    "delete": "削除",
+    "edit": "編集",
+    "create": "作成",
+    "update": "更新"
+  },
+  "home": {
+    "title": "HDCP プラットフォーム",
+    "subtitle": "多言語対応のハイブリッドデータCMSプラットフォーム",
+    "description": " универсальный шаблон платформыでデータ駆動型アプリケーションを構築",
+    "features": {
+      "title": "機能",
+      "stock": "株価監視",
+      "iot": "IoTセンサーデータ",
+      "ecommerce": "電子商取引価格追跡",
+      "carbon": "カーボンクレジット追跡"
+    },
+    "cta": {
+      "dashboard": "ダッシュボードを表示",
+      "documentation": "ドキュメントを表示"
+    }
+  },
+  "dashboard": {
+    "title": "ダッシュボード",
+    "welcome": "ダッシュボードへようこそ",
+    "stats": {
+      "title": "統計",
+      "total": "総レコード",
+      "today": "今日のレコード",
+      "active": "アクティブ項目"
+    },
+    "charts": {
+      "title": "チャート",
+      "price_trend": "価格トレンド",
+      "volume": "出来高",
+      "distribution": "分布"
+    }
+  },
+  "stock": {
+    "title": "株価",
+    "symbol": "銘柄コード",
+    "price": "価格",
+    "volume": "出来高",
+    "change": "変動",
+    "change_percent": "変動率",
+    "timestamp": "タイムスタンプ",
+    "source": "情報源",
+    "enter_symbol": "銘柄コードを入力",
+    "search": "検索",
+    "add_stock": "株を追加",
+    "edit_stock": "株を編集",
+    "delete_stock": "株を削除",
+    "summary": "概要",
+    "history": "履歴"
+  },
+  "sensor": {
+    "title": "センサー読み取り値",
+    "sensor_id": "センサーID",
+    "location": "場所",
+    "temperature": "温度",
+    "humidity": "湿度",
+    "battery": "バッテリー",
+    "signal": "信号",
+    "status": "ステータス",
+    "online": "オンライン",
+    "offline": "オフライン",
+    "add_reading": "読み取り値を追加",
+    "stats": "統計"
+  },
+  "product": {
+    "title": "製品価格",
+    "product_id": "製品ID",
+    "product_name": "製品名",
+    "price": "価格",
+    "currency": "通貨",
+    "source": "情報源",
+    "availability": "在庫状況",
+    "in_stock": "在庫あり",
+    "out_of_stock": "在庫切れ",
+    "compare": "価格比較",
+    "track": "価格追跡"
+  },
+  "carbon": {
+    "title": "カーボンクレジット",
+    "project_id": "プロジェクトID",
+    "project_name": "プロジェクト名",
+    "standard": "規格",
+    "location": "場所",
+    "project_type": "プロジェクトタイプ",
+    "additionality_score": "追加性スコア",
+    "co_benefits_score": "共同利益スコア",
+    "total_credits": "総クレジット",
+    "impact": "環境影響",
+    "co2_offset": "CO2 相殺",
+    "forest_area": "森林面積",
+    "communities": "利益を受けるコミュニティ"
+  },
+  "language": {
+    "switcher": "言語",
+    "detected": "自動検出",
+    "select": "言語を選択"
+  },
+  "footer": {
+    "copyright": "© 2024 HDCP プラットフォーム. 無断転載を禁じます。",
+    "links": {
+      "privacy": "プライバシーポリシー",
+      "terms": "利用規約",
+      "contact": "お問い合わせ"
+    }
+  },
+  "errors": {
+    "not_found": "見つかりません",
+    "server_error": "サーバーエラー",
+    "network_error": "ネットワークエラー",
+    "validation_error": "検証エラー",
+    "unauthorized": "認証が必要です",
+    "forbidden": "禁止"
+  }
+}

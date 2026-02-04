@@ -1,0 +1,132 @@
+{
+  "nav": {
+    "home": "首页",
+    "dashboard": "仪表盘",
+    "about": "关于",
+    "contact": "联系我们"
+  },
+  "common": {
+    "loading": "加载中...",
+    "error": "发生错误",
+    "search": "搜索",
+    "submit": "提交",
+    "cancel": "取消",
+    "save": "保存",
+    "delete": "删除",
+    "edit": "编辑",
+    "create": "创建",
+    "update": "更新"
+  },
+  "home": {
+    "title": "HDCP 平台",
+    "subtitle": "混合数据CMS平台，支持多语言",
+    "description": "使用我们的通用平台模板构建数据驱动应用程序",
+    "features": {
+      "title": "功能特性",
+      "stock": "股票价格监控",
+      "iot": "物联网传感器数据",
+      "ecommerce": "电商价格追踪",
+      "carbon": "碳信用追踪"
+    },
+    "cta": {
+      "dashboard": "查看仪表盘",
+      "documentation": "查看文档"
+    }
+  },
+  "dashboard": {
+    "title": "仪表盘",
+    "welcome": "欢迎来到您的仪表盘",
+    "stats": {
+      "title": "统计数据",
+      "total": "总记录数",
+      "today": "今日记录",
+      "active": "活跃项目"
+    },
+    "charts": {
+      "title": "图表",
+      "price_trend": "价格趋势",
+      "volume": "交易量",
+      "distribution": "分布图"
+    }
+  },
+  "stock": {
+    "title": "股票价格",
+    "symbol": "股票代码",
+    "price": "价格",
+    "volume": "交易量",
+    "change": "涨跌额",
+    "change_percent": "涨跌幅",
+    "timestamp": "时间戳",
+    "source": "数据源",
+    "enter_symbol": "输入股票代码",
+    "search": "搜索",
+    "add_stock": "添加股票",
+    "edit_stock": "编辑股票",
+    "delete_stock": "删除股票",
+    "summary": "摘要",
+    "history": "历史数据"
+  },
+  "sensor": {
+    "title": "传感器读数",
+    "sensor_id": "传感器ID",
+    "location": "位置",
+    "temperature": "温度",
+    "humidity": "湿度",
+    "battery": "电池",
+    "signal": "信号",
+    "status": "状态",
+    "online": "在线",
+    "offline": "离线",
+    "add_reading": "添加读数",
+    "stats": "统计数据"
+  },
+  "product": {
+    "title": "产品价格",
+    "product_id": "产品ID",
+    "product_name": "产品名称",
+    "price": "价格",
+    "currency": "货币",
+    "source": "来源",
+    "availability": "库存状态",
+    "in_stock": "有库存",
+    "out_of_stock": "缺货",
+    "compare": "价格比较",
+    "track": "价格追踪"
+  },
+  "carbon": {
+    "title": "碳信用",
+    "project_id": "项目ID",
+    "project_name": "项目名称",
+    "standard": "认证标准",
+    "location": "位置",
+    "project_type": "项目类型",
+    "additionality_score": "附加性评分",
+    "co_benefits_score": "协同效益评分",
+    "total_credits": "总信用额度",
+    "impact": "环境影响",
+    "co2_offset": "碳减排量",
+    "forest_area": "森林面积",
+    "communities": "受益社区"
+  },
+  "language": {
+    "switcher": "语言",
+    "detected": "自动检测",
+    "select": "选择语言"
+  },
+  "footer": {
+    "copyright": "© 2024 HDCP 平台。保留所有权利。",
+    "links": {
+      "privacy": "隐私政策",
+      "terms": "服务条款",
+      "contact": "联系我们"
+    }
+  },
+  "errors": {
+    "not_found": "未找到",
+    "server_error": "服务器错误",
+    "network_error": "网络错误",
+    "validation_error": "验证错误",
+    "unauthorized": "未授权",
+    "forbidden": "禁止访问"
+  }
+}

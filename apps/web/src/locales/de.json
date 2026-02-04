@@ -1,0 +1,132 @@
+{
+  "nav": {
+    "home": "Startseite",
+    "dashboard": "Dashboard",
+    "about": "Über uns",
+    "contact": "Kontakt"
+  },
+  "common": {
+    "loading": "Laden...",
+    "error": "Ein Fehler ist aufgetreten",
+    "search": "Suchen",
+    "submit": "Senden",
+    "cancel": "Abbrechen",
+    "save": "Speichern",
+    "delete": "Löschen",
+    "edit": "Bearbeiten",
+    "create": "Erstellen",
+    "update": "Aktualisieren"
+  },
+  "home": {
+    "title": "HDCP Plattform",
+    "subtitle": "Hybrid-Daten-CMS-Plattform mit mehrsprachiger Unterstützung",
+    "description": "Erstellen Sie datengesteuerte Anwendungen mit unserer universellen Plattformvorlage",
+    "features": {
+      "title": "Funktionen",
+      "stock": "Aktienpreisüberwachung",
+      "iot": "IoT-Sensordaten",
+      "ecommerce": "E-Commerce-Preisverfolgung",
+      "carbon": "Kohlenstoffgutschrift-Tracking"
+    },
+    "cta": {
+      "dashboard": "Dashboard anzeigen",
+      "documentation": "Dokumentation anzeigen"
+    }
+  },
+  "dashboard": {
+    "title": "Dashboard",
+    "welcome": "Willkommen zu Ihrem Dashboard",
+    "stats": {
+      "title": "Statistiken",
+      "total": "Gesamte Datensätze",
+      "today": "Heutige Datensätze",
+      "active": "Aktive Elemente"
+    },
+    "charts": {
+      "title": "Diagramme",
+      "price_trend": "Preisverlauf",
+      "volume": "Volumen",
+      "distribution": "Verteilung"
+    }
+  },
+  "stock": {
+    "title": "Aktienpreise",
+    "symbol": "Symbol",
+    "price": "Preis",
+    "volume": "Volumen",
+    "change": "Änderung",
+    "change_percent": "Änderung %",
+    "timestamp": "Zeitstempel",
+    "source": "Quelle",
+    "enter_symbol": "Aktiensymbol eingeben",
+    "search": "Suchen",
+    "add_stock": "Aktie hinzufügen",
+    "edit_stock": "Aktie bearbeiten",
+    "delete_stock": "Aktie löschen",
+    "summary": "Zusammenfassung",
+    "history": "Verlauf"
+  },
+  "sensor": {
+    "title": "Sensorablesungen",
+    "sensor_id": "Sensor-ID",
+    "location": "Standort",
+    "temperature": "Temperatur",
+    "humidity": "Luftfeuchtigkeit",
+    "battery": "Batterie",
+    "signal": "Signal",
+    "status": "Status",
+    "online": "Online",
+    "offline": "Offline",
+    "add_reading": "Ableitung hinzufügen",
+    "stats": "Statistiken"
+  },
+  "product": {
+    "title": "Produktpreise",
+    "product_id": "Produkt-ID",
+    "product_name": "Produktname",
+    "price": "Preis",
+    "currency": "Währung",
+    "source": "Quelle",
+    "availability": "Verfügbarkeit",
+    "in_stock": "Auf Lager",
+    "out_of_stock": "Ausverkauft",
+    "compare": "Preise vergleichen",
+    "track": "Preis verfolgen"
+  },
+  "carbon": {
+    "title": "Kohlenstoffgutschriften",
+    "project_id": "Projekt-ID",
+    "project_name": "Projektname",
+    "standard": "Standard",
+    "location": "Standort",
+    "project_type": "Projekttyp",
+    "additionality_score": "Additionalitäts-Score",
+    "co_benefits_score": "Co-Benefits-Score",
+    "total_credits": "Gesamtgutschriften",
+    "impact": "Umweltauswirkung",
+    "co2_offset": "CO2-Ausgleich",
+    "forest_area": "Waldfläche",
+    "communities": "Begünstigte Gemeinschaften"
+  },
+  "language": {
+    "switcher": "Sprache",
+    "detected": "Automatisch erkannt",
+    "select": "Sprache auswählen"
+  },
+  "footer": {
+    "copyright": "© 2024 HDCP Plattform. Alle Rechte vorbehalten.",
+    "links": {
+      "privacy": "Datenschutzrichtlinie",
+      "terms": "Nutzungsbedingungen",
+      "contact": "Kontaktieren Sie uns"
+    }
+  },
+  "errors": {
+    "not_found": "Nicht gefunden",
+    "server_error": "Server-Fehler",
+    "network_error": "Netzwerk-Fehler",
+    "validation_error": "Validierungsfehler",
+    "unauthorized": "Nicht autorisiert",
+    "forbidden": "Verboten"
+  }
+}

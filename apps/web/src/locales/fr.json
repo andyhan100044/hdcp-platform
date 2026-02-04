@@ -1,0 +1,132 @@
+{
+  "nav": {
+    "home": "Accueil",
+    "dashboard": "Tableau de bord",
+    "about": "À propos",
+    "contact": "Contact"
+  },
+  "common": {
+    "loading": "Chargement...",
+    "error": "Une erreur s'est produite",
+    "search": "Rechercher",
+    "submit": "Soumettre",
+    "cancel": "Annuler",
+    "save": "Enregistrer",
+    "delete": "Supprimer",
+    "edit": "Modifier",
+    "create": "Créer",
+    "update": "Mettre à jour"
+  },
+  "home": {
+    "title": "Plateforme HDCP",
+    "subtitle": "Plateforme de Données-CMS Hybride avec Support Multi-langues",
+    "description": "Construisez des applications pilotées par les données avec notre modèle de plateforme universelle",
+    "features": {
+      "title": "Fonctionnalités",
+      "stock": "Surveillance des Prix des Actions",
+      "iot": "Données des Capteurs IoT",
+      "ecommerce": "Suivi des Prix E-commerce",
+      "carbon": "Suivi des Crédits Carbone"
+    },
+    "cta": {
+      "dashboard": "Voir le Tableau de bord",
+      "documentation": "Voir la Documentation"
+    }
+  },
+  "dashboard": {
+    "title": "Tableau de bord",
+    "welcome": "Bienvenue sur votre tableau de bord",
+    "stats": {
+      "title": "Statistiques",
+      "total": "Enregistrements Totaux",
+      "today": "Enregistrements d'Aujourd'hui",
+      "active": "Éléments Actifs"
+    },
+    "charts": {
+      "title": "Graphiques",
+      "price_trend": "Tendance des Prix",
+      "volume": "Volume",
+      "distribution": "Distribution"
+    }
+  },
+  "stock": {
+    "title": "Prix des Actions",
+    "symbol": "Symbole",
+    "price": "Prix",
+    "volume": "Volume",
+    "change": "Variation",
+    "change_percent": "Variation %",
+    "timestamp": "Horodatage",
+    "source": "Source",
+    "enter_symbol": "Entrer le symbole de l'action",
+    "search": "Rechercher",
+    "add_stock": "Ajouter une Action",
+    "edit_stock": "Modifier l'Action",
+    "delete_stock": "Supprimer l'Action",
+    "summary": "Résumé",
+    "history": "Historique"
+  },
+  "sensor": {
+    "title": "Lectures des Capteurs",
+    "sensor_id": "ID du Capteur",
+    "location": "Emplacement",
+    "temperature": "Température",
+    "humidity": "Humidité",
+    "battery": "Batterie",
+    "signal": "Signal",
+    "status": "Statut",
+    "online": "En ligne",
+    "offline": "Hors ligne",
+    "add_reading": "Ajouter une Lecture",
+    "stats": "Statistiques"
+  },
+  "product": {
+    "title": "Prix des Produits",
+    "product_id": "ID du Produit",
+    "product_name": "Nom du Produit",
+    "price": "Prix",
+    "currency": "Devise",
+    "source": "Source",
+    "availability": "Disponibilité",
+    "in_stock": "En Stock",
+    "out_of_stock": "Rupture de Stock",
+    "compare": "Comparer les Prix",
+    "track": "Suivre le Prix"
+  },
+  "carbon": {
+    "title": "Crédits Carbone",
+    "project_id": "ID du Projet",
+    "project_name": "Nom du Projet",
+    "standard": "Standard",
+    "location": "Emplacement",
+    "project_type": "Type de Projet",
+    "additionality_score": "Score d'Additionalité",
+    "co_benefits_score": "Score de Co-bénéfices",
+    "total_credits": "Crédits Totaux",
+    "impact": "Impact Environnemental",
+    "co2_offset": "Compensation CO2",
+    "forest_area": "Zone Forestière",
+    "communities": "Communautés Bénéficiaires"
+  },
+  "language": {
+    "switcher": "Langue",
+    "detected": "Auto-détecté",
+    "select": "Sélectionner la Langue"
+  },
+  "footer": {
+    "copyright": "© 2024 Plateforme HDCP. Tous droits réservés.",
+    "links": {
+      "privacy": "Politique de Confidentialité",
+      "terms": "Conditions de Service",
+      "contact": "Nous Contacter"
+    }
+  },
+  "errors": {
+    "not_found": "Non Trouvé",
+    "server_error": "Erreur Serveur",
+    "network_error": "Erreur Réseau",
+    "validation_error": "Erreur de Validation",
+    "unauthorized": "Non Autorisé",
+    "forbidden": "Interdit"
+  }
+}

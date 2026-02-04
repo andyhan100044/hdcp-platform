@@ -1,0 +1,132 @@
+{
+  "nav": {
+    "home": "홈",
+    "dashboard": "대시보드",
+    "about": "소개",
+    "contact": "연락처"
+  },
+  "common": {
+    "loading": "로딩 중...",
+    "error": "오류가 발생했습니다",
+    "search": "검색",
+    "submit": "제출",
+    "cancel": "취소",
+    "save": "저장",
+    "delete": "삭제",
+    "edit": "편집",
+    "create": "만들기",
+    "update": "업데이트"
+  },
+  "home": {
+    "title": "HDCP 플랫폼",
+    "subtitle": "다국어 지원 하이브리드 데이터-CMS 플랫폼",
+    "description": "범용 플랫폼 템플릿으로 데이터 기반 애플리케이션 구축",
+    "features": {
+      "title": "기능",
+      "stock": "주가 모니터링",
+      "iot": "IoT 센서 데이터",
+      "ecommerce": "이커머스 가격 추적",
+      "carbon": "탄소 크레딧 추적"
+    },
+    "cta": {
+      "dashboard": "대시보드 보기",
+      "documentation": "문서 보기"
+    }
+  },
+  "dashboard": {
+    "title": "대시보드",
+    "welcome": "대시보드에 오신 것을 환영합니다",
+    "stats": {
+      "title": "통계",
+      "total": "총 레코드",
+      "today": "오늘의 레코드",
+      "active": "활성 항목"
+    },
+    "charts": {
+      "title": "차트",
+      "price_trend": "가격 추세",
+      "volume": "거래량",
+      "distribution": "분포"
+    }
+  },
+  "stock": {
+    "title": "주가",
+    "symbol": "심볼",
+    "price": "가격",
+    "volume": "거래량",
+    "change": "변화",
+    "change_percent": "변화 %",
+    "timestamp": "타임스탬프",
+    "source": "소스",
+    "enter_symbol": "주식 심볼 입력",
+    "search": "검색",
+    "add_stock": "주식 추가",
+    "edit_stock": "주식 편집",
+    "delete_stock": "주식 삭제",
+    "summary": "요약",
+    "history": "이력"
+  },
+  "sensor": {
+    "title": "센서 판독값",
+    "sensor_id": "센서 ID",
+    "location": "위치",
+    "temperature": "온도",
+    "humidity": "습도",
+    "battery": "배터리",
+    "signal": "신호",
+    "status": "상태",
+    "online": "온라인",
+    "offline": "오프라인_reading": "판독값 추가",
+    "stats": "통계",
+    "add"
+  },
+  "product": {
+    "title": "제품 가격",
+    "product_id": "제품 ID",
+    "product_name": "제품명",
+    "price": "가격",
+    "currency": "통화",
+    "source": "소스",
+    "availability": "재고 상황",
+    "in_stock": "재고 있음",
+    "out_of_stock": "품절",
+    "compare": "가격 비교",
+    "track": "가격 추적"
+  },
+  "carbon": {
+    "title": "탄소 크레딧",
+    "project_id": "프로젝트 ID",
+    "project_name": "프로젝트명",
+    "standard": "표준",
+    "location": "위치",
+    "project_type": "프로젝트 유형",
+    "additionality_score": "추가성 점수",
+    "co_benefits_score": "공동 편익 점수",
+    "total_credits": "총 크레딧",
+    "impact": "환경 영향",
+    "co2_offset": "CO2 상쇄",
+    "forest_area": "삼림 면적",
+    "communities": "수혜 커뮤니티"
+  },
+  "language": {
+    "switcher": "언어",
+    "detected": "자동 감지",
+    "select": "언어 선택"
+  },
+  "footer": {
+    "copyright": "© 2024 HDCP 플랫폼. 모든 권리 보유.",
+    "links": {
+      "privacy": "개인정보처리방침",
+      "terms": "서비스 약관",
+      "contact": "문의하기"
+    }
+  },
+  "errors": {
+    "not_found": "찾을 수 없음",
+    "server_error": "서버 오류",
+    "network_error": "네트워크 오류",
+    "validation_error": "검증 오류",
+    "unauthorized": "권한 없음",
+    "forbidden": "금지됨"
+  }
+}

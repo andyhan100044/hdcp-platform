@@ -1,0 +1,1 @@
+# HDCP Platform API Configuration

@@ -1,0 +1,132 @@
+{
+  "nav": {
+    "home": "Inicio",
+    "dashboard": "Panel",
+    "about": "Acerca de",
+    "contact": "Contacto"
+  },
+  "common": {
+    "loading": "Cargando...",
+    "error": "Ocurrió un error",
+    "search": "Buscar",
+    "submit": "Enviar",
+    "cancel": "Cancelar",
+    "save": "Guardar",
+    "delete": "Eliminar",
+    "edit": "Editar",
+    "create": "Crear",
+    "update": "Actualizar"
+  },
+  "home": {
+    "title": "Plataforma HDCP",
+    "subtitle": "Plataforma de Datos-CMS Híbrida con Soporte Multiidioma",
+    "description": "Construya aplicaciones impulsadas por datos con nuestra plantilla de plataforma universal",
+    "features": {
+      "title": "Características",
+      "stock": "Monitoreo de Precios de Acciones",
+      "iot": "Datos de Sensores IoT",
+      "ecommerce": "Seguimiento de Precios de E-commerce",
+      "carbon": "Seguimiento de Créditos de Carbono"
+    },
+    "cta": {
+      "dashboard": "Ver Panel",
+      "documentation": "Ver Documentación"
+    }
+  },
+  "dashboard": {
+    "title": "Panel",
+    "welcome": "Bienvenido a su panel",
+    "stats": {
+      "title": "Estadísticas",
+      "total": "Registros Totales",
+      "today": "Registros de Hoy",
+      "active": "Elementos Activos"
+    },
+    "charts": {
+      "title": "Gráficos",
+      "price_trend": "Tendencia de Precios",
+      "volume": "Volumen",
+      "distribution": "Distribución"
+    }
+  },
+  "stock": {
+    "title": "Precios de Acciones",
+    "symbol": "Símbolo",
+    "price": "Precio",
+    "volume": "Volumen",
+    "change": "Cambio",
+    "change_percent": "Cambio %",
+    "timestamp": "Marca de Tiempo",
+    "source": "Fuente",
+    "enter_symbol": "Ingrese símbolo de acción",
+    "search": "Buscar",
+    "add_stock": "Agregar Acción",
+    "edit_stock": "Editar Acción",
+    "delete_stock": "Eliminar Acción",
+    "summary": "Resumen",
+    "history": "Historial"
+  },
+  "sensor": {
+    "title": "Lecturas de Sensores",
+    "sensor_id": "ID del Sensor",
+    "location": "Ubicación",
+    "temperature": "Temperatura",
+    "humidity": "Humedad",
+    "battery": "Batería",
+    "signal": "Señal",
+    "status": "Estado",
+    "online": "En línea",
+    "offline": "Fuera de línea",
+    "add_reading": "Agregar Lectura",
+    "stats": "Estadísticas"
+  },
+  "product": {
+    "title": "Precios de Productos",
+    "product_id": "ID del Producto",
+    "product_name": "Nombre del Producto",
+    "price": "Precio",
+    "currency": "Moneda",
+    "source": "Fuente",
+    "availability": "Disponibilidad",
+    "in_stock": "En Stock",
+    "out_of_stock": "Agotado",
+    "compare": "Comparar Precios",
+    "track": "Rastrear Precio"
+  },
+  "carbon": {
+    "title": "Créditos de Carbono",
+    "project_id": "ID del Proyecto",
+    "project_name": "Nombre del Proyecto",
+    "standard": "Estándar",
+    "location": "Ubicación",
+    "project_type": "Tipo de Proyecto",
+    "additionality_score": "Puntuación de Adicionalidad",
+    "co_benefits_score": "Puntuación de Co-beneficios",
+    "total_credits": "Créditos Totales",
+    "impact": "Impacto Ambiental",
+    "co2_offset": "Compensación de CO2",
+    "forest_area": "Área Forestal",
+    "communities": "Comunidades Beneficiadas"
+  },
+  "language": {
+    "switcher": "Idioma",
+    "detected": "Auto-detectado",
+    "select": "Seleccionar Idioma"
+  },
+  "footer": {
+    "copyright": "© 2024 Plataforma HDCP. Todos los derechos reservados.",
+    "links": {
+      "privacy": "Política de Privacidad",
+      "terms": "Términos de Servicio",
+      "contact": "Contáctanos"
+    }
+  },
+  "errors": {
+    "not_found": "No Encontrado",
+    "server_error": "Error del Servidor",
+    "network_error": "Error de Red",
+    "validation_error": "Error de Validación",
+    "unauthorized": "No Autorizado",
+    "forbidden": "Prohibido"
+  }
+}

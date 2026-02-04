@@ -1,0 +1,38 @@
+{
+  "collectionName": "components_user_profiles",
+  "info": {
+    "displayName": "Profile",
+    "description": "User profile information"
+  },
+  "attributes": {
+    "firstName": {
+      "type": "string"
+    },
+    "lastName": {
+      "type": "string"
+    },
+    "bio": {
+      "type": "text"
+    },
+    "avatar": {
+      "type": "media",
+      "multiple": false,
+      "allowedTypes": ["images"]
+    },
+    "website": {
+      "type": "string"
+    },
+    "company": {
+      "type": "string"
+    },
+    "jobTitle": {
+      "type": "string"
+    },
+    "socialLinks": {
+      "type": "json"
+    },
+    "preferences": {
+      "type": "json"
+    }
+  }
+}
