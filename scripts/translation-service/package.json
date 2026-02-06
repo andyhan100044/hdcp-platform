@@ -1,0 +1,36 @@
+{
+  "name": "hdcp-translation-service",
+  "version": "1.0.0",
+  "description": "自动翻译服务 - DeepL API + LLM 校核",
+  "main": "translation-service.ts",
+  "scripts": {
+    "translate": "ts-node translation-service.ts",
+    "translate:v2": "ts-node translation-service-v2.ts",
+    "translate:quick": "./start-translation.sh",
+    "translate:deepl": "ts-node scripts/providers/deepl.ts",
+    "translate:review": "ts-node scripts/providers/llm-reviewer.ts",
+    "translate:multi-llm": "ts-node translation-service-v2.ts",
+    "report:quality": "cat translation-quality-report.md",
+    "report:quality:v2": "cat translation-quality-report-v2.md",
+    "test:connection": "ts-node scripts/test-connection.ts",
+    "test:llm": "ts-node scripts/test-llm-providers.ts"
+  },
+  "keywords": [
+    "i18n",
+    "translation",
+    "deepl",
+    "llm",
+    "internationalization"
+  ],
+  "author": "HDCP Team",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^1.6.0",
+    "openai": "^4.20.0"
+  },
+  "devDependencies": {
+    "@types/node": "^20.0.0",
+    "ts-node": "^10.9.0",
+    "typescript": "^5.3.0"
+  }
+}
